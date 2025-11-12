@@ -67,7 +67,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/FabianoCarneiro/10CDLR_Devops</url>
+			<url>https://maven.pkg.github.com/andredegueh/fiap-cicd-pipelines-aula2</url>
 		</repository>
 	</distributionManagement>
 	<build>
